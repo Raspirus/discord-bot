@@ -14,3 +14,5 @@ The Raspirus Discord bot
 10. The bot should now be running on the Raspberry Pi
 
 Tip: You can find the application name in the Balena Cloud dashboard
+
+Invite link: https://discord.com/api/oauth2/authorize?client_id=1173019507565006869&permissions=8&scope=bot+applications.commands
